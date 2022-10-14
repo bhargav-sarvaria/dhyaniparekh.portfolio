@@ -1,4 +1,4 @@
-# Responsive and Aesthetic Portfolio Website
+# Responsive and Design Minded Portfolio Website
 
 Developed using vanilla HTTP/CSS/JavaScript/Bootstrap.
 Design minded website with support for all screen sizes.
